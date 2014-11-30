@@ -1,5 +1,5 @@
 linia 1
-linia 2
-linia 3
 linia 4
 cokolwiek
+nowa zmiana 
+teraz to namieszałem6
